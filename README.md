@@ -36,8 +36,8 @@
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p>My commit history in all its glory – from epic features to "fix: typo in comment" at 2 AM. Every line tells a story (mostly of debugging nightmares and coffee-fueled breakthroughs). Judge me by my code, not my commit messages (okay maybe a little). 🔥</p>
-  <img src="https://raw.githubusercontent.com/melagiri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/melagiri/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  <img src="https://raw.githubusercontent.com/melagiri/melagiri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/melagiri/melagiri/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">� What I Nerd Out Over</h2>
