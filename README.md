@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/melagiri/melagiri/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
-<h2 align="center" class="section-heading">� What I Nerd Out Over</h2>
+<h2 align="center" class="section-heading"> What I Nerd Out Over</h2>
 <p>Manager by day, keyboard warrior by night. I love building systems that scale, mentoring devs who want to level up, and solving problems that make people say "wait, how did you do that?" 🧠</p>
 
 <div align="center">
@@ -99,7 +99,7 @@
  <table align="center" width="100%">
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melagiri&theme=github_dark" alt="Srikanth's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com?user=melagiri&theme=merko" alt="Srikanth's Contribution Streak"/></td>
+       <td><p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=melagiri" alt="GitHub Streak"></a></p></td>
     </tr>
  </table>
 
