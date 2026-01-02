@@ -1,11 +1,11 @@
-<div align="center">
+<!-- <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hey+I'm+Srikanth+Rao;+Engineering+Manager+%40+BreezyHR;Building+AI+Native+Products!" alt="Typing SVG" /></a>
-</div>
+</div> -->
 
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>
-        Engineering Manager at BreezyHR | Full-stack nerd with 12+ years of building cloud-native SaaS. When I'm not shipping features, I'm debugging life's problems (mostly with coffee ☕). Obsessed with AI/LLMs, microservices architecture, and building teams that actually enjoy their work. I speak fluent Kubernetes, write code that doesn't suck, and believe great engineering is 10% talent and 90% caffeine.
+        Engineering Manager at BreezyHR | Full-stack nerd with 12+ years of building cloud-native SaaS. When I'm not shipping features, I'm debugging life's problems and investigating the meaning of life through the lens of philosophy and epistemology. Obsessed with AI/LLMs, microservices architecture, and building teams that actually enjoy their work. I am a polyglot (both human languages and computer 😉), orchestrate suite of agents to develop code that doesn't suck, and believe great engineering is 10% code and 90% orchestration.
     </p>
     <p>
         <strong>Currently Geeking Out Over:</strong> AI-native products, cloud-native architectures, and mentoring the next generation of code wizards. Also: lurking on X, posting tech hot takes, and debugging why my code works in dev but breaks in prod. 🤷
@@ -99,7 +99,6 @@
  <table align="center" width="100%">
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melagiri&theme=github_dark" alt="Srikanth's GitHub Stats"/></td>   
-       <td><p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=melagiri" alt="GitHub Streak"></a></p></td>
     </tr>
  </table>
 
