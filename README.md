@@ -8,14 +8,14 @@
         Engineering Manager at BreezyHR | Full-stack nerd with 12+ years of building cloud-native SaaS. When I'm not shipping features, I'm debugging life's problems and investigating the meaning of life through the lens of philosophy and epistemology. Obsessed with AI/LLMs, microservices architecture, and building teams that actually enjoy their work. I am a polyglot (both human languages and computer 😉), orchestrate suite of agents to develop code that doesn't suck, and believe great engineering is 10% code and 90% orchestration.
     </p>
     <p>
-        <strong>Currently Geeking Out Over:</strong> AI-native products, cloud-native architectures, and mentoring the next generation of code wizards. Also: lurking on X, posting tech hot takes, and debugging why my code works in dev but breaks in prod. 🤷
+        <strong>Currently Geeking Out Over:</strong> AI-native products, cloud-native architectures, and mentoring the next generation of code wizards.
     </p>
 </div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p>
-    Let's talk about distributed systems, why Internet is both beautiful and cursed, the latest AI models, or why office spaces still matter (it does, fight me 😏). Hit me up for code reviews, architecture debates, or to complain about production issues at 3 AM. Always down for geeky conversations!
+    Let's talk about distributed systems, why Internet is both beautiful and cursed, the latest AI models, or why office spaces still matter (it does, fight me 😏). Hit me up for code reviews, architecture debates... Always down for geeky conversations!
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/melagiri" target="_blank">
@@ -35,7 +35,7 @@
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-    <p>My commit history in all its glory – from epic features to "fix: typo in comment" at 2 AM. Every line tells a story (mostly of debugging nightmares and coffee-fueled breakthroughs). Judge me by my code, not my commit messages (okay maybe a little). 🔥</p>
+    <p>My commit history in all its glory – from epic features to "fix: typo in comment". Every line tells a story (mostly of debugging nightmares and coffee-fueled breakthroughs). Judge me by my code, not my commit messages. 🔥</p>
   <img src="https://raw.githubusercontent.com/melagiri/melagiri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/melagiri/melagiri/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
@@ -95,7 +95,7 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">📈 GitHub Stats</h2>
-<p>My GitHub stats in living color – proof that I actually code (or at least look busy). The green boxes speak louder than my resume. 💚</p>
+<p>My GitHub stats in living colour – proof that I actually code (or at least look busy). The green boxes speak louder than my resume. 💚</p>
  <table align="center" width="100%">
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melagiri&theme=github_dark" alt="Srikanth's GitHub Stats"/></td>   
