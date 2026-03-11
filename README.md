@@ -5,7 +5,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>
-        Engineering Manager at BreezyHR | Full-stack nerd with 12+ years of building cloud-native SaaS. When I'm not shipping features, I'm debugging life's problems and investigating the meaning of life through the lens of philosophy and epistemology. Obsessed with AI/LLMs, microservices architecture, and building teams that actually enjoy their work. I am a polyglot (both human languages and computer 😉), orchestrate suite of agents to develop code that doesn't suck, and believe great engineering is 10% code and 90% orchestration.
+        Engineering Manager at Nike | Full-stack nerd with 12+ years of building cloud-native SaaS. When I'm not shipping features, I'm debugging life's problems and investigating the meaning of life through the lens of philosophy and epistemology. Obsessed with AI/LLMs, microservices architecture, and building teams that actually enjoy their work. I am a polyglot (both human languages and computer 😉), orchestrate suite of agents to develop code that doesn't suck, and believe great engineering is 10% code and 90% orchestration.
     </p>
     <p>
         <strong>Currently Geeking Out Over:</strong> AI-native products, cloud-native architectures, and mentoring the next generation of code wizards.
